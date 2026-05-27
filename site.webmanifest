@@ -1,0 +1,21 @@
+{
+  "name": "247 Managed Network Solutions",
+  "short_name": "247 MNS",
+  "description": "Outsourced .NET, Blazor, and SwiftUI software development.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#064767",
+  "icons": [
+    {
+      "src": "assets/favicon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

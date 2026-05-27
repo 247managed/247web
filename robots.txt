@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://247managed.com/sitemap.xml
+Host: https://247managed.com
